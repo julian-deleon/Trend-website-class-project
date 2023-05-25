@@ -1,3 +1,5 @@
+![trend](https://github.com/julian-deleon/Trend-website-class-project/assets/77114985/83ebe4a2-7d5d-4808-9143-f14da1ead85e)
+
 # Assignment 4
 
 ### Weight: 15% of your final mark.
