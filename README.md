@@ -1,4 +1,4 @@
->Click this [LINK](https://trend-website-class-project-mk0xjj3ds-julian-deleon.vercel.app/) to view my live website deployed with Vercel!
+### Click this [LINK](https://trend-website-class-project-mk0xjj3ds-julian-deleon.vercel.app/) to view my live website deployed with Vercel!
 
 ![trend](https://github.com/julian-deleon/Trend-website-class-project/assets/77114985/83ebe4a2-7d5d-4808-9143-f14da1ead85e)
 
